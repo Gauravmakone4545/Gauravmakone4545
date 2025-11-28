@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Makone
 
-<!--
-**Gauravmakone4545/Gauravmakone4545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Asp .NET Developer | C# | SQL Server | Web API  
+💻 Passionate about building REST APIs and backend systems  
+🔥 Currently learning .NET 9, Entity Framework Core, and Clean Architecture  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Learning advanced .NET backend development  
+- 💼 Building API-based projects  
+- 🧠 Strong in C#, OOP, and SQL  
+- 🛠 Aspiring backend developer with hands-on practice  
+
+---
+
+## 🧰 Tech Stack
+**Languages:**  
+`C#` `JavaScript` `SQL`
+
+**Backend:**  
+`ASP.NET Core` `Web API` `Entity Framework Core`
+
+**Database:**  
+`SQL Server`
+
+**Tools:**  
+`Visual Studio` `VS Code` `Postman` `Git` `GitHub`
+
+---
+
+## 📂 Featured Projects (Coming Soon)
+- Hotel Management API (.NET 9)  
+- Delivery System API  
+- C# Practice Programs  
+- CRUD API using EF Core  
+
+---
+
+## 📈 GitHub Goals
+- Daily coding & commits  
+- API + DB projects  
+- Master .NET Core and EF Core  
+
+---
+
+## 📞 Contact Me
+📧 **gauravmakone@gmail.com**
+
