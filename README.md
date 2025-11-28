@@ -43,6 +43,12 @@
 - Master .NET Core and EF Core  
 
 ---
+## 📊 GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravmakone4545&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravmakone4545&layout=compact&theme=radical)
+
 
 ## 📞 Contact Me
 📧 **gauravmakone@gmail.com**
