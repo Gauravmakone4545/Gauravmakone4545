@@ -56,12 +56,12 @@ Logical problems, patterns, arrays, strings for DSA practice.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gauravmakone4545&show_icons=true&theme=tokyonight" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravmakone4545&layout=compact&theme=tokyonight" height="165" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Gauravmakone4545&show_icons=true&theme=radical" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravmakone4545&layout=compact&theme=radical" height="165"/>
 
 </div>
+
 
 ---
 
